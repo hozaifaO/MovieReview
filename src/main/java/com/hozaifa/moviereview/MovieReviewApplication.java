@@ -1,3 +1,7 @@
+/**
+ * Author Name: Hozaifa Owaisi
+ * Application Name: Movie Review
+*/
 package com.hozaifa.moviereview;
 
 import org.springframework.boot.SpringApplication;
